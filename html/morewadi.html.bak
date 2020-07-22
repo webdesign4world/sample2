@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head lang="en"> 
+<style>
+body{
+border: 2px solid tomato;
+padding:15px;
+margin:100px;
+background-color: powderblue;
+}
+p{
+padding: 15px;
+}
+</style>
+<title>Must visit Morewadi</title>
+</head>
+<body>
+<h1 style=text-align:center; >Most visited place</h1>
+<p style=text-align:center;>Morewadi is beatiful place. It in the maharashtra-state solapur-district sangola-Tal ekhtpur-post:<br>This village is having some historical background. it says that in the 16th century Shivaji mahaj gave jahagiri to Haibatrao More and he came to this village all the way from Javali,Satara.same like Javali people living in this town have same sirname 'More'. in this town there is a temple of GOD Maruti,GODESS Ambika and also GOD Biroba. People living this town belives that after worshiping of God Maruti in this temple,GOD will comlete theirS wish. most people in this town are farmers. women are homemakers but whenever they get time they help their husbunds in farm. children are takimg education. this Town is educated. you must visit this town once.</p>
+<img src="sunset.jpg" alt="it is sunset in the town" width="400"><br>
+<img src="nature.jpg" alt="it is sunset in the town" width="400">
+
+</body>
+</html>
